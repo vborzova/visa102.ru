@@ -1,48 +1,12 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta charset="utf-8">
+{{ partial "header.html" . }}
 
-    <title>EVERYBODY LOVES HYPNOTOAD</title>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css"></link>
-    <link rel="stylesheet" href="/css/visa102.css"></link>
+    <div class="col-xs-12 col-md-8">
 
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+      <p class="lead">
+        {{ range where .Data.Pages "Section" "home" }}
+           {{ .Content}}
+        {{ end }}
+      </p>
+  </div>
 
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
-
-  </head>
-  <body screen_capture_injected="true">
-      <div class="container-fluid">
-        <div class="header">
-
-        </div>
-
-        <div class="masthead">
-            <h1>
-                Уфимский Визовый Центр "Виза-Уфа"
-            </h1>
-            <h3>
-              +7(917)34-800-34, г.Уфа, ул.Заки Валиди д.3
-            </h3>
-        </div>
-
-        <div class="fluid-container">
-
-          <div class="col-xs-12 col-md-8">
-
-            <p class="lead">
-              {{ range where .Data.Pages "Section" "home" }}
-                 {{ .Content}}
-              {{ end }}
-            </p>
-        </div>
-        <div class="col-xs-12 col-md-4">
-          Select menu
-        </div>
-
-      </div>
-      </div>
-  </body>
-</html>
+{{ partial "footer.html" .}}

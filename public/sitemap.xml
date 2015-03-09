@@ -8,7 +8,17 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/countries/de/</loc>
+    <lastmod>2015-02-20T14:31:56+05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/home/</loc>
+    <lastmod>2015-02-20T14:31:56+05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/countries/in/</loc>
     <lastmod>2015-02-20T14:31:56+05:00</lastmod>
   </url>
   
