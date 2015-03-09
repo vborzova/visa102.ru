@@ -1,6 +1,5 @@
 +++
 date = "2015-02-20T14:31:56+05:00"
-draft = true
 title = "index"
 
 +++
