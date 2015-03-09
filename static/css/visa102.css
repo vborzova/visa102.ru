@@ -1,12 +1,18 @@
 .masthead{
 	position: relative;
 	padding: 30px 15px;
-	margin-left: 50px;
+	padding-left: 50px;
 	color: #fdfff3;
+	background: url("/img/splash.jpeg")  no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
 }
 
 a .masthead{
 	color: #cdbfe3;
+
 }
 
 nav {
@@ -24,5 +30,11 @@ nav li a{
 }
 
 .footer{
-	color: #555555;
+	color: #f5f5f5;
+	padding-bottom: 300px;
+	background: url("/img/bg.jpg")  no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
 }
