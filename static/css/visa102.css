@@ -1,7 +1,7 @@
 .masthead{
 	padding-top: 30px;
 	padding-bottom: 30px;
-	color: #000000;
+	color: #333a67;
 	background-color: #ffffff;
 }
 
@@ -9,10 +9,20 @@
 	background-color: #000000;
 }
 
+.navbar-inverse .navbar-nav li a{
+	color: #ffffff;
+}
+
+.glyphicon{
+	color: #337ab7;
+}
 
 .navbar{
+	background-color: #337ab7;
+	color:#ffffff;
 	margin-bottom:0px;
 	border-radius: 0px;
+	border-width: 0px;
 }
 
 .country{
@@ -20,19 +30,21 @@
 }
 
 .nikasborders {
-	margin-left: 40px;
-	margin-right: 40px;
+	margin-left: 140px;
+	margin-right: 140px;
 }
 
 body{
-	background-color: rgb(194, 212, 220);
+	background-color: #CFE5FA;
 }
 
 .footer{
+	margin-left: 140px;
+	margin-right: 140px;
 	color: #353535;
 	padding-bottom: 300px;
-	margin-left: 40px;
-	margin-right: 40px;
+	padding-top: 30px;
+
 }
 
 .contentus{
