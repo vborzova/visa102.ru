@@ -3,4 +3,4 @@ template= open("template","rb").read()
 for c in cntries:
 	name, domain = c.rstrip().split(",")
 	out = open(domain+".md","wb")
-	out.write(template.format(name))
+	out.write(template.format(name, domain))
