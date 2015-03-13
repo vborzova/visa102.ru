@@ -1,39 +1,42 @@
 .masthead{
-	position: relative;
-	padding: 30px 15px;
-	padding-left: 50px;
+	padding-top: 30px;
+	padding-bottom: 30px;
 	color: #000000;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
+	border: 2px solid;
+	border-top-right-radius: 15px;
+	border-top-left-radius: 15px;
+	background-color: #ffffff;
+	margin-top: 40px;
 }
 
-a .masthead{
-	color: #000000;
-}
-
-nav {
-	background-image: linear-gradient(to bottom,#ffffff 0,#ffffff 100%);
+.nikanavbar{
+	background-color: #000000;
 }
 
 
-.navbar-inverse .navbar-nav li a{
-	color: #000000;
+.navbar{
+	margin-bottom:0px;
+	border-radius: 0px;
 }
 
+.nikasborders {
+	margin-left: 40px;
+	margin-right: 40px;
+}
 
-.navbar-inverse .navbar-nav li a:hover{
-	color: #000000;
-	background-image: linear-gradient(to bottom,#3370AB 0,#3370AB 100%);
-
+body{
+	background-color: #CACCDB;
 }
 
 .footer{
 	color: #353535;
 	padding-bottom: 300px;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
+	margin-left: 40px;
+	margin-right: 40px;
+}
+
+.contentus{
+	background-color: #ffffff;
+	border: 2px solid;
+	padding-bottom: 55px;
 }
