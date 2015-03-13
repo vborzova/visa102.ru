@@ -2,8 +2,7 @@
 	position: relative;
 	padding: 30px 15px;
 	padding-left: 50px;
-	color: #fdfff3;
-	background: url("/img/splash.jpeg")  no-repeat center center fixed;
+	color: #000000;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -11,22 +10,20 @@
 }
 
 a .masthead{
-	color: #cdbfe3;
+	color: #000000;
 
 }
 
 nav {
-	background-image: linear-gradient(to bottom,#967dbc 0,#967dbc 100%);
-	color: #ffffff;
+	background-image: linear-gradient(to bottom,#ffffff 0,#ffffff 100%);
 }
 
 nav li a{
-	background-image: linear-gradient(to bottom,#967dbc 0,#967dbc 100%);
-	color: #ffffff;
+	background-image: linear-gradient(to bottom,#ffffff 0,#ffffff 100%);
 }
 
 .navbar-inverse .navbar-nav li a{
-	color: #ffffff;
+	color: #000000;
 }
 
 .footer{
