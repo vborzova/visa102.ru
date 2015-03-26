@@ -25,6 +25,21 @@
 	border-width: 0px;
 }
 
+ .dropdown-menu, .dropdown-menu>a:hover{
+ 	background-color: #337ab7;
+ 	color:#ffffff;
+ }
+
+.navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:focus, .navbar-inverse .navbar-nav>.open>a:hover{
+ 	background-color: #034a87;
+ 	color:#ffffff;
+ }
+
+.navbar-inverse .navbar-collapse,.navbar-inverse .navbar-form{
+ 	background-color: #437ab7;
+ 	color:#ffffff;
+ }
+
 .country{
 	margin-top: 5px;
 }
