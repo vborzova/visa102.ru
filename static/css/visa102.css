@@ -62,6 +62,14 @@ body{
 
 }
 
+table, th, td {
+	border: 1px solid black;
+}
+
+td, th{
+	padding: 5px;
+}
+
 .contentus{
 	background-color: #ffffff;
 	padding-bottom: 55px;
