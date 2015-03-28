@@ -80,7 +80,7 @@ td, th{
 }
 
 
-@media (max-width: 767px) { 
+@media (max-width: 1000px) { 
   .le-sidebar{
   	display: none;
   }
