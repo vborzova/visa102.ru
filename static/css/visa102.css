@@ -6,7 +6,11 @@
 }
 
 .nikanavbar{
-	background-color: #000000;
+	background-color: #337ab7;
+}
+
+.nikanavbar li:hover{
+	background-color: #034a87;
 }
 
 .navbar-inverse .navbar-nav li a{
@@ -18,7 +22,7 @@
 }
 
 .navbar{
-	background-color: #337ab7;
+	background-color:  #337ab7;
 	color:#ffffff;
 	margin-bottom:0px;
 	border-radius: 0px;
@@ -73,4 +77,11 @@ td, th{
 .contentus{
 	background-color: #ffffff;
 	padding-bottom: 55px;
+}
+
+
+@media (max-width: 767px) { 
+  .le-sidebar{
+  	display: none;
+  }
 }
