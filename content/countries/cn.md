@@ -197,11 +197,11 @@ flag = "cn"
 </td>
 <td width="60" valign="top">
 <p align="center">&nbsp;</p>
-<p align="center">15 500 / 14 500</p>
+<p align="center">15 500</p>
 </td>
 <td width="60" valign="top">
 <p align="center">&nbsp;</p>
-<p align="center">16 500 / 15 500</p>
+<p align="center">16 500</p>
 </td>
 <td width="60" valign="top">
 <p align="center">&nbsp;</p>
