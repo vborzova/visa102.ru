@@ -1,0 +1,19 @@
+{{ partial "header.html" . }}
+
+<div class="col-xs-12 col-md-8">
+	<h3> {{.Title}} </h3>
+        <p class="lead">
+                 {{ .Content}}
+        </p>
+</div>
+
+<div class="col-xs-12 col-md-4 text-right">
+      <br>
+        <img class="img-thumbnail" width="70" src="/flags/{{.Params.flag}}.png">
+	<br> 
+		 <h2>
+	         {{.Title}} 
+	     </h2>
+	     Визы этих типов можно оформить онлайн.
+</div>
+{{ partial "lightfooter.html" . }}
