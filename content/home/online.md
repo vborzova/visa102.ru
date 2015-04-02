@@ -28,6 +28,12 @@ title = "Виза Online"
     </a>
 </p>
 <p>
+    <a href="/online/vietnam">
+      <img  class="img-rounded" width="23" src="/flags/vn.png">
+      Вьетнам
+    </a>
+</p>
+<p>
         <a href="/home/online-others">
           Online подготовка документов 
         </a>
