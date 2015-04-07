@@ -32,9 +32,10 @@ title = "Виза Online"
     </a>
 </p>
 <p>
-        <a href="/home/online-others">
+      <img  class="img-rounded" width="23" src="/flags/all.jpg">
+        <a href="/home/online-others"><strong>
           Online подготовка документов 
-        </a>
+        </strong> (на любую страну) </a>
 </p>
 
 
