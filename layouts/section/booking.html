@@ -1,0 +1,14 @@
+{{ partial "header.html" . }}
+
+<div class="col-xs-12 col-md-12">
+		<h2>Авиабилеты</h2>
+
+
+	    {{ range .Data.Pages }}
+
+		                 {{ .Content}}
+        {{ end }}
+
+</div>
+
+{{ partial "footer.html" . }}
