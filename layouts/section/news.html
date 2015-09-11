@@ -1,20 +1,20 @@
 {{ partial "header.html" . }}
 
 <div class="col-xs-12 col-md-8">
-		<h3>Мы занимаемся оформлением виз в следующие страны</h3>
-        	Если интересная вам страна не в списке, это не значит, что мы не можем помочь вам в оформлении. Позвоните нам и мы постараемся найти для вас решение.
-            <br><br>
-                {{ range .Data.Pages }}
-                <div class="col-md-3">
-                        <div class="row country">
-                                <img  class="img-rounded" width="23" src="/flags/{{.Params.flag}}.png">
-                                <a href="{{.RelPermalink}}">
-                                	{{ .Title}}
-                                </a>
-                        </div>
-                </div>
-                {{ end }}
+		<h2>Новости</h2>
+    	Изменения в визовом режиме стран, обновления в требованиях на документы, новые материалы на сайте.
+			<br><br>
+
+
+	    {{ range .Data.Pages }}
+						<h3><small>{{ .Date.Format  "2006.01.02" }} | </small>  <a href="{{.Permalink}}">{{.Title}} </a>  </h3>
+		        <p class="lead">
+		                 {{ .Content}}
+		        </p>
+						<br><br>
+        {{ end }}
+
 </div>
 
-{{ partial "sidebar.html" . }}    
+{{ partial "sidebar.html" . }}
 {{ partial "footer.html" . }}
