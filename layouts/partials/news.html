@@ -1,0 +1,10 @@
+<p class="lead">
+    Новости
+    {{ range where .Data.Pages "Section" "news" }}
+      <ul class="nav nav-pills nav-stacked">
+           <strong>{{ .Date.Format  "2006.01.02" }} </strong>
+              |  {{.Title}}. <a href="{{ .Permalink }}"> Подробнее... </a>
+       </ul>
+    {{ end }}
+</p>
+</div>

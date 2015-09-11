@@ -1,4 +1,4 @@
-	  <div class="col-xs-12 col-md-4 le-sidebar">
+<div class="col-xs-12 col-md-4 le-sidebar">
       <br>
 	  	<p class="lead">
 	        Популярные визы
@@ -9,16 +9,5 @@
 						<li role="presentation"><a href="/countries/cn/">Визы в Китай</a>
 	        </ul>
 	    </small></h2>
-	  </div>
 
-
-<div class="col-xs-12 col-md-4 le-sidebar">
-      <br>
-	        Новости
-					{{ range where .Data.Pages "Section" "news" }}
-		        <ul class="nav nav-pills nav-stacked">
-								 <strong>{{ .Date.Format  "January 2, 2006" }} </strong>
-									  |  {{.Title}} . <a href="{{ .Permalink }}"> Подробнее... </a>
-						 </ul>
-					{{ end }}
-</div>
+<br>
