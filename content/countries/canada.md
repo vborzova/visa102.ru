@@ -7,8 +7,8 @@ flag = "ca"
 
 "Виза-Уфа" имеет большой успешный опыт оформления документов как для краткосрочных визитов так и для иммиграции в Канаду. "Уфа-Виза" единственная организация в регионе Поволжья, которая
 
-* Зарегистрирована в Canada Immigration and Citizenship (CIC) в качестве Qualified Representatives for Immigration Applications
-* Член Immigration Consultants of Canada Regulatory Council с правом совещательного голоса в CIC
+* Зарегистрирована в **Canada Immigration and Citizenship (CIC)** в качестве **Qualified Representatives for Immigration Applications**
+* Член **Immigration Consultants of Canada Regulatory Council** с правом совещательного голоса в CIC
 
 Основные типы виз и требуемые документы:
 
