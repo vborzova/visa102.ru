@@ -11,7 +11,7 @@ flag = "ca"
 * Зарегистрирована в **Canada Immigration and Citizenship (CIC)** в качестве **Qualified Representatives for Immigration Applications**
 * Член **Immigration Consultants of Canada Regulatory Council** с правом совещательного голоса в CIC
 
-Основные типы виз и требуемые документы:
+Основные оформляемые типы заявлений:
 
 * [Краткосрочные визы для посещения Канады](/canada/visit): посещение страны с туристическими целями, по личным либо деловым приглашениям
 
