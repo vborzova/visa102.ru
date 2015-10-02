@@ -3,6 +3,7 @@ date = "2015-02-20T14:31:56+05:00"
 title = "Канада"
 flag = "ca"
 +++
+
 ### Визы и иммиграция в Канаду
 
 "Виза-Уфа" имеет большой успешный опыт оформления документов как для краткосрочных визитов так и для иммиграции в Канаду. "Уфа-Виза" единственная организация в регионе Поволжья, которая
@@ -16,6 +17,6 @@ flag = "ca"
 
 * [Студенческие и рабочие визы](/canada//study): визы для обучения и работы в Канаде
 
-* [Иммиграция на основе профессии и квалификации](/canada/immigration): иммиграция по программам Federal and Quebec Skilled Worker, Provincial Nominee, Federal Self-Employed и Canadian Experience Class
+* [Иммиграция на основе профессии и квалификации](/canada/immigration): иммиграция по программам **Federal and Quebec Skilled Worker**, **Provincial Nominee**, **Federal Self-Employed** и **Canadian Experience Class**
 
-* [Иммиграция через брак/воссоединение семьи](/canada/family): иммиграция членов семьи граждан Канады и лиц, имеющих вид на жительство (permanent resident status), включая родителей, супругов и детей
+* [Иммиграция через брак/воссоединение семьи](/canada/family): иммиграция членов семьи граждан Канады и лиц, имеющих вид на жительство (permanent resident status), включая родителей, супругов и детей (**Federal Family Class** либо **SuperVisa**)
