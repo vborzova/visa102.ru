@@ -1,0 +1,14 @@
+{{ partial "header.html" . }}
+
+<div class="col-xs-12 col-md-8">
+	<h3> <a href="/news">Новости</a> / {{.Title}}   <small>{{ .Date.Format  "2006.01.02" }}</small> </h3>
+        <p class="lead">
+                 {{ .Content}}
+        </p>
+</div>
+
+<div class="col-xs-12 col-md-4 text-right  le-sidebar">
+</div>
+
+
+{{ partial "footer.html" . }}
