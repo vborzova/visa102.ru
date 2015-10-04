@@ -15,7 +15,7 @@ flag = "ca"
 
 * [Краткосрочные визы для посещения Канады](/canada/visit): посещение страны с туристическими целями, по личным либо деловым приглашениям
 
-* [Студенческие и рабочие визы](/canada//study): визы для обучения и работы в Канаде
+* [Студенческие и рабочие визы](/canada/work-or-study): визы для обучения и работы в Канаде
 
 * [Иммиграция на основе профессии и квалификации](/canada/immigration): иммиграция по программам **Federal and Quebec Skilled Worker**, **Provincial Nominee**, **Federal Self-Employed** и **Canadian Experience Class**
 
