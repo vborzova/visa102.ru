@@ -3,16 +3,21 @@ date = "2015-02-20T14:31:56+05:00"
 title = "Services in translations between Russian, English, French and German languages"
 +++
 
-Специалисты "Уфа-Виза" делают профессиональный двухсторонний перевод документов и текстов для **английского**, **французского** и **немецких** языков.
+Ufa-Visa offers professional translation services for **English**, **Russian**, **French** and **German** languages. We also provide document translations, certified with a notary public, which can be used for legal purposes.
 
-Стоимость зависит от сложности и характера задачи:
+While our prices vary as they depend on the character & complexity of the text, our rates are extremely competitive:
 
 
-* перевод вместе с нотариальным заверением документа – от 500 руб.,
-* перевод текста – 1 стандартная страница – от 300 руб.,
-* перевод медицинского и технического текста – от 400 руб.,
-* легализация документа (проставление апостиля) – 3000 руб.
-* редактирование документа – 100 руб.
-* срочность (доплата) – 500 руб.
+* document translation certified with notary public – starting at **RUB500** / **USD 10**,
+* translation of a generic text – starting at  **RUB300** / **USD 6** per page,
+* highly specialized medical or technical texts - starting at  **RUB400** / **USD 8**,
+* Apostille document certification – starting at **RUB3000** / **USD 60**
 
-1 стандартная страница содержит 1800 знаков с пробелами. Если у вас есть текст в электронном виде – Вы можете сами посчитать количество страниц в тексте. Для этого выбираете: сервис —> статистика —> количество знаков с пробелами, делите количество знаков на 1800 – получаете количество стандартных страниц.
+Please contact us for a free quote.
+
+Contact us remotely to order services at:
+
+* online via email [tdufa@yandex.ru](mailto:tdufa@yandex.ru)
+* or via ph: +7(917)7804237
+
+Or visit us in person at **124 Tsurupy, Ufa, Bashkortostan (region), Russia** (see [contacts page](/eng/contact) for detailed directions on how to reach us).
