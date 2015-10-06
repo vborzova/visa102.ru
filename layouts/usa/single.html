@@ -1,0 +1,28 @@
+{{ partial "header.html" . }}
+
+<div class="col-xs-12 col-md-8">
+  <h3> {{.Params.header}} </h3>
+        <p class="lead">
+                 {{ .Content}}
+        </p>
+</div>
+
+<div class="col-xs-12 col-md-4 le-sidebar">
+      <br>
+      <h4>
+         <img class="img-thumbnail" width="50" src="/flags/ca.png"> Канада
+      </h4>
+		 <h5>
+	         иммиграция и визы
+     </h5>
+	     Список требуемых документов и условия.
+       <br><br>
+
+         <br><ul class="nav nav-pills nav-stacked"><a href="/canada/visit">Краткосрочные визы для посещения Канады</a>: посещение страны с туристическими целями, по личным либо деловым приглашениям</ul>
+         <br><ul class="nav nav-pills nav-stacked"><a href="/canada/work-or-study">Студенческие и рабочие визы</a>: визы для обучения и работы в Канаде </ul>
+         <br><ul class="nav nav-pills nav-stacked"><a href="/canada/immigration">Иммиграция на основе профессии и квалификации</a>: иммиграция по программам Federal and Quebec Skilled Worker, Provincial Nominee, Federal Self-Employed и Canadian Experience Class</ul>
+         <br><ul class="nav nav-pills nav-stacked"><a href="/canada/family">Иммиграция через брак/воссоединение семьи</a>: иммиграция членов семьи граждан Канады и лиц, имеющих вид на жительство (permanent resident status), включая родителей, супругов и детей (Federal Family Class for Parents/Grandparents либо SuperVisa)</ul>
+
+</div>
+
+{{ partial "footer.html" . }}
