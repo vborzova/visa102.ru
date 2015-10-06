@@ -8,7 +8,7 @@ title = "Контакты: телефоны, как найти офис для �
 
 <span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> &nbsp;  7-917-780-4237
 
- **Адрес:** г. Уфа, ул. Цюрупы, 124
+ **Address:** 124 Tsurupy St, Ufa, Russia
 
  **Hours:** Mn-Fr 10:00 to 18:00
 
