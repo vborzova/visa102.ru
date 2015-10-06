@@ -10,7 +10,7 @@ While our prices vary as they depend on the character & complexity of the text, 
 
 * document translation certified with notary public – starting at **RUB500** / **USD 10**,
 * translation of a generic text – starting at  **RUB300** / **USD 6** per page,
-* highly specialized medical or technical texts - starting at  **RUB400** / **USD 8**,
+* highly specialized medical or engineering texts - starting at  **RUB400** / **USD 8**,
 * Apostille document certification – starting at **RUB3000** / **USD 60**
 
 Please contact us for a free quote.
