@@ -20,4 +20,4 @@ Contact us remotely to order services at:
 * online via email [tdufa@yandex.ru](mailto:tdufa@yandex.ru)
 * or via ph: +7(917)7804237
 
-Or visit us in person at **124 Tsurupy St, Ufa, Bashkortostan (region), Russia** (see [contacts page](/eng/contact) for detailed directions on how to reach us).
+Or visit us in person at **124 Tsurupy St, Ufa, Bashkortostan (region), Russia** (see [contacts page](/eng/contact) for detailed directions on how to reach our office).
