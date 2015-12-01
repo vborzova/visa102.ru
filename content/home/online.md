@@ -34,8 +34,6 @@ title = "Виза Online"
 <p>
       <img  class="img-rounded" width="23" src="/flags/all.jpg">
         <a href="/home/online-others"><strong>
-          Online подготовка документов 
+          Online подготовка документов
         </strong> (на любую страну) </a>
 </p>
-
-
