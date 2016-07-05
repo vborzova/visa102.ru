@@ -9,11 +9,19 @@
 <div class="col-xs-12 col-md-4 text-right le-sidebar">
       <br>
         <img class="img-thumbnail" width="70" src="/flags/{{.Params.flag}}.png">
-	<br>
-		 <h2>
-	         {{.Title}}
-	     </h2>
-	     Список документов и требования для получения визы в страну.
+  <br>
+     <h2>
+           {{.Title}}
+       </h2>
+       Список документов и требования для получения визы в страну.
+
+       <br><br><br>
+       {{.Title}}: закажите бесплатную консультацию:
+       <br>
+       <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">
+           Заказать звонок!
+       </button>
+       <br>
 </div>
 
 {{ partial "footer.html" . }}
