@@ -1,6 +1,6 @@
 +++
 date = "2016-08-31T19:33:00+00:00"
-draft = true
+draft = false
 title = "Новый адрес!"
 
 +++
